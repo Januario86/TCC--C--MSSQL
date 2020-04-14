@@ -1,0 +1,15 @@
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\bin\x64\Release\folhadepagamento.exe.config
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\bin\x64\Release\folhadepagamento.exe
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Release\folhadepagamento.csprojResolveAssemblyReference.cache
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Release\folhadepagamento.Properties.Resources.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Release\folhadepagamento.View.frmCadastroEmpregador.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Release\folhadepagamento.View.frmCadastroFuncionários.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Release\folhadepagamento.View.frmCadastroFérias.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Release\folhadepagamento.View.frmCadastroLicencaMedica.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Release\folhadepagamento.View.frmCalculoMensal.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Release\folhadepagamento.View.frmFormPrincipal.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Release\folhadepagamento.View.frmHoraExtra.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Release\folhadepagamento.View.frmRecisao.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Release\folhadepagamento.View.frmRelatorios.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Release\folhadepagamento.csproj.GenerateResource.Cache
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Release\folhadepagamento.exe

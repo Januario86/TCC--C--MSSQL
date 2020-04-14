@@ -1,0 +1,105 @@
+C:\Rbytes\folha de pagamento\Fonte\folhadepagamento\bin\x86\Debug\folhadepagamento.exe.config
+C:\Rbytes\folha de pagamento\Fonte\folhadepagamento\bin\x86\Debug\folhadepagamento.exe
+C:\Rbytes\folha de pagamento\Fonte\folhadepagamento\bin\x86\Debug\folhadepagamento.pdb
+C:\Rbytes\folha de pagamento\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.Properties.Resources.resources
+C:\Rbytes\folha de pagamento\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroEmpregador.resources
+C:\Rbytes\folha de pagamento\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroFuncionários.resources
+C:\Rbytes\folha de pagamento\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmFormPrincipal.resources
+C:\Rbytes\folha de pagamento\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.csproj.GenerateResource.Cache
+C:\Rbytes\folha de pagamento\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.exe
+C:\Rbytes\folha de pagamento\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.pdb
+C:\Rbytes\folha de pagamento\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.csprojResolveAssemblyReference.cache
+C:\Rbytes\folha de pagamento\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroLicencaMedica.resources
+C:\Rbytes\folha de pagamento\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCalculoMensal.resources
+C:\Rbytes\folha de pagamento\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmHoraExtra.resources
+C:\Rbytes\folha de pagamento\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmRecisao.resources
+C:\Users\felipe.a.januario\Desktop\folha\Fonte\folhadepagamento\bin\x86\Debug\folhadepagamento.exe.config
+C:\Users\felipe.a.januario\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.exe
+C:\Users\felipe.a.januario\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.Properties.Resources.resources
+C:\Users\felipe.a.januario\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroEmpregador.resources
+C:\Users\felipe.a.januario\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroFuncionários.resources
+C:\Users\felipe.a.januario\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroFérias.resources
+C:\Users\felipe.a.januario\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroLicencaMedica.resources
+C:\Users\felipe.a.januario\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCalculoMensal.resources
+C:\Users\felipe.a.januario\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmFormPrincipal.resources
+C:\Users\felipe.a.januario\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmHoraExtra.resources
+C:\Users\felipe.a.januario\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmRecisao.resources
+C:\Users\felipe.a.januario\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmRelatorios.resources
+C:\Users\felipe.a.januario\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.csproj.GenerateResource.Cache
+C:\Users\felipe.a.januario\Desktop\folha\Fonte\folhadepagamento\bin\x86\Debug\folhadepagamento.exe
+C:\Users\felipe.a.januario\Desktop\folha\Fonte\folhadepagamento\bin\x86\Debug\folhadepagamento.pdb
+C:\Users\felipe.a.januario\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.pdb
+C:\Users\Claudia & Felipe\Desktop\folha\folha\Fonte\folhadepagamento\bin\x86\Debug\folhadepagamento.exe.config
+C:\Users\Claudia & Felipe\Desktop\folha\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.exe
+C:\Users\Claudia & Felipe\Desktop\folha\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.pdb
+C:\Users\Claudia & Felipe\Desktop\folha\folha\Fonte\folhadepagamento\bin\x86\Debug\folhadepagamento.exe
+C:\Users\Claudia & Felipe\Desktop\folha\folha\Fonte\folhadepagamento\bin\x86\Debug\folhadepagamento.pdb
+C:\Users\Claudia & Felipe\Desktop\folha\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.csprojResolveAssemblyReference.cache
+C:\Users\Claudia & Felipe\Desktop\folha\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.Properties.Resources.resources
+C:\Users\Claudia & Felipe\Desktop\folha\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroEmpregador.resources
+C:\Users\Claudia & Felipe\Desktop\folha\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroFuncionários.resources
+C:\Users\Claudia & Felipe\Desktop\folha\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroFérias.resources
+C:\Users\Claudia & Felipe\Desktop\folha\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroLicencaMedica.resources
+C:\Users\Claudia & Felipe\Desktop\folha\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCalculoMensal.resources
+C:\Users\Claudia & Felipe\Desktop\folha\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmFormPrincipal.resources
+C:\Users\Claudia & Felipe\Desktop\folha\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmHoraExtra.resources
+C:\Users\Claudia & Felipe\Desktop\folha\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmRecisao.resources
+C:\Users\Claudia & Felipe\Desktop\folha\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmRelatorios.resources
+C:\Users\Claudia & Felipe\Desktop\folha\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.csproj.GenerateResource.Cache
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\bin\x86\Debug\folhadepagamento.exe.config
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\bin\x86\Debug\folhadepagamento.exe
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\bin\x86\Debug\folhadepagamento.pdb
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.Properties.Resources.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroEmpregador.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroFuncionários.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroFérias.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroLicencaMedica.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCalculoMensal.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmFormPrincipal.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmHoraExtra.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmRecisao.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmRelatorios.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.csproj.GenerateResource.Cache
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.exe
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.pdb
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.csprojResolveAssemblyReference.cache
+C:\Users\felipe.a.januario\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmConsultarEmpregador.resources
+C:\Users\felipe.a.januario\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.csprojResolveAssemblyReference.cache
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmConsultarEmpregador.resources
+C:\Users\Claudia & Felipe\Desktop\old_folha\Fonte\folhadepagamento\bin\x86\Debug\folhadepagamento.exe.config
+C:\Users\Claudia & Felipe\Desktop\old_folha\Fonte\folhadepagamento\bin\x86\Debug\folhadepagamento.exe
+C:\Users\Claudia & Felipe\Desktop\old_folha\Fonte\folhadepagamento\bin\x86\Debug\folhadepagamento.pdb
+C:\Users\Claudia & Felipe\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.Properties.Resources.resources
+C:\Users\Claudia & Felipe\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroFaltas.resources
+C:\Users\Claudia & Felipe\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmConsultarEmpregador.resources
+C:\Users\Claudia & Felipe\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroEmpregador.resources
+C:\Users\Claudia & Felipe\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroFuncionários.resources
+C:\Users\Claudia & Felipe\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroFérias.resources
+C:\Users\Claudia & Felipe\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroLicencaMedica.resources
+C:\Users\Claudia & Felipe\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCalculoMensal.resources
+C:\Users\Claudia & Felipe\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmFormPrincipal.resources
+C:\Users\Claudia & Felipe\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmHoraExtra.resources
+C:\Users\Claudia & Felipe\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmRecisao.resources
+C:\Users\Claudia & Felipe\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmRelatorios.resources
+C:\Users\Claudia & Felipe\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.csproj.GenerateResource.Cache
+C:\Users\Claudia & Felipe\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.exe
+C:\Users\Claudia & Felipe\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.pdb
+C:\Users\felipe.a.januario\Desktop\old_folha\Fonte\folhadepagamento\bin\x86\Debug\folhadepagamento.exe.config
+C:\Users\felipe.a.januario\Desktop\old_folha\Fonte\folhadepagamento\bin\x86\Debug\folhadepagamento.exe
+C:\Users\felipe.a.januario\Desktop\old_folha\Fonte\folhadepagamento\bin\x86\Debug\folhadepagamento.pdb
+C:\Users\felipe.a.januario\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.Properties.Resources.resources
+C:\Users\felipe.a.januario\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroFaltas.resources
+C:\Users\felipe.a.januario\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmConsultarEmpregador.resources
+C:\Users\felipe.a.januario\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroEmpregador.resources
+C:\Users\felipe.a.januario\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroFuncionários.resources
+C:\Users\felipe.a.januario\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroFérias.resources
+C:\Users\felipe.a.januario\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCadastroLicencaMedica.resources
+C:\Users\felipe.a.januario\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmCalculoMensal.resources
+C:\Users\felipe.a.januario\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmFormPrincipal.resources
+C:\Users\felipe.a.januario\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmHoraExtra.resources
+C:\Users\felipe.a.januario\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmRecisao.resources
+C:\Users\felipe.a.januario\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.View.frmRelatorios.resources
+C:\Users\felipe.a.januario\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.csproj.GenerateResource.Cache
+C:\Users\felipe.a.januario\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.exe
+C:\Users\felipe.a.januario\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.pdb
+C:\Users\felipe.a.januario\Desktop\old_folha\Fonte\folhadepagamento\obj\x86\Debug\folhadepagamento.csprojResolveAssemblyReference.cache

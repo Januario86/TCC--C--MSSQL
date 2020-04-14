@@ -1,0 +1,17 @@
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\bin\x64\Debug\folhadepagamento.exe.config
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\bin\x64\Debug\folhadepagamento.exe
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\bin\x64\Debug\folhadepagamento.pdb
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Debug\folhadepagamento.csprojResolveAssemblyReference.cache
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Debug\folhadepagamento.Properties.Resources.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Debug\folhadepagamento.View.frmCadastroEmpregador.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Debug\folhadepagamento.View.frmCadastroFuncionários.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Debug\folhadepagamento.View.frmCadastroFérias.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Debug\folhadepagamento.View.frmCadastroLicencaMedica.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Debug\folhadepagamento.View.frmCalculoMensal.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Debug\folhadepagamento.View.frmFormPrincipal.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Debug\folhadepagamento.View.frmHoraExtra.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Debug\folhadepagamento.View.frmRecisao.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Debug\folhadepagamento.View.frmRelatorios.resources
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Debug\folhadepagamento.csproj.GenerateResource.Cache
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Debug\folhadepagamento.exe
+C:\Users\Claudia & Felipe\Desktop\folha\Fonte\folhadepagamento\obj\x64\Debug\folhadepagamento.pdb
